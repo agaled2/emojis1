@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(red,rgb(0, 255, 85));
+    height: 100vh;
+    text-align: center;
+}
+.titulo{
+    margin-top: 0;
+}
+#camara,#captura{
+width: 350px;
+height: 300px;
+border: silver 3px solid;
+box-shadow: -5px +5px 20px rgba(45, 0, 128, 0.569) ;
+margin: 20px auto;
+box-sizing: content-box;
+}
